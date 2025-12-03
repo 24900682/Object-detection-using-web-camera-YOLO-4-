@@ -1,7 +1,7 @@
 # Object-detection-using-web-camera-YOLO-4-
 
-### NAME: Pooja P
-### REG NO: 212224230195
+### NAME: ASWIN L
+### REG NO: 212224230028
 
 ## Overview :
 In this project, I implemented real-time object detection using the YOLOv4 deep learning model with OpenCV. The goal was to capture frames from a webcam , run YOLOv4 inference to detect objects, and visualize the detections with bounding boxes and labels.
@@ -90,7 +90,8 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Output :
-![kandravi](https://github.com/user-attachments/assets/a64fd050-516a-4df9-9f9f-517c3d867bd3)
+
+<img width="581" height="426" alt="Screenshot 2025-12-03 170743" src="https://github.com/user-attachments/assets/f4693e9c-b5a8-4fef-8789-f4fcbd0b3eb6" />
 
 
 ## Result :
